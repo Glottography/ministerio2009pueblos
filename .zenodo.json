@@ -1,0 +1,23 @@
+{
+    "creators": [
+        {
+            "name": "The Glottography Consortium"
+        }
+    ],
+    "communities": [
+        {
+            "identifier": "glottography"
+        }
+    ],
+    "title": "Glottography dataset derived from Ministerio de Educaci\u00f3n, Ciencia y Tecnolog\u00eda de la Naci\u00f3n and Programa Nacional Mapa Educativo 2009 \"Rep\u00fablica Argentina \u2013 Pueblos Ind\u00edgenas\"",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Generic",
+        "linguistics"
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Ministerio de Educaci\u00f3n, Ciencia y Tecnolog\u00eda de la Naci\u00f3n &amp; Programa Nacional Mapa Educativo (eds.) 2009. Rep\u00fablica Argentina \u2013 Pueblos Ind\u00edgenas.</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-4.0"
+    }
+}
