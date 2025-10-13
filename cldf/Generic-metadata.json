@@ -17,7 +17,7 @@
         {
             "rdf:about": "https://github.com/Glottography/ministerio2009pueblos",
             "rdf:type": "prov:Entity",
-            "dc:created": "b4911ea",
+            "dc:created": "39d43d9",
             "dc:title": "Repository"
         },
         {
@@ -42,7 +42,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#MediaTable",
-            "dc:extent": 3,
+            "dc:extent": 4,
             "tableSchema": {
                 "columns": [
                     {
