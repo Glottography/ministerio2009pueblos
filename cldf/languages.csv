@@ -1,6 +1,6 @@
 ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code,Feature_IDs,Glottolog_Languoid_Level,Family,Speaker_Area
 alle1238,Allentiac,,-33.480938,-68.096924,alle1238,,6,language,Huarpean,languages
-calc1235,Calchaqui,,,,calc1235,,4 5,language,Unclassifiable,languages
+calc1235,Calchaqui,,-27.47483,-66.42344,calc1235,,4 5,language,Unclassifiable,languages
 char1240,Charrúa,,-34.9,-56.16,char1240,,2,language,Charruan,languages
 kunz1244,Kunza,,-23.0,-69.0,kunz1244,,1 8,language,,languages
 lule1238,Lule,,-25.221839,-61.887818,lule1238,,11,language,,languages
