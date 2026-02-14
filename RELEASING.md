@@ -46,3 +46,14 @@ cldfbench geojson.glottolog_distance cldf --format pipe
 | puel1244 | 5.46 | False | 3 |
 | tehu1242 | 0.00 | False | 4 |
 | wich1264 | 0.00 | True | 1 |
+
+
+## Release
+
+Commit and push all changes.
+
+Run
+```
+cldfbench glottography.release cldfbench_ministerio2009pueblos.py vX.Y
+```
+and follow the instructions given in the output of the command.
