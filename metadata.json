@@ -4,5 +4,6 @@
     "description": "This dataset provides non-overlapping, contemporary geographic areas of indigenous populations in Argentina as published by the Ministry of Education of Argentina in 2009.",
     "license": "CC-BY-4.0",
     "url": null,
+    "zenodo_concept_doi": "10.5281/zenodo.17340811",
     "citation": "Ministerio de Educaci\u00f3n, Ciencia y Tecnolog\u00eda de la Naci\u00f3n & Programa Nacional Mapa Educativo (eds.) 2009. Rep\u00fablica Argentina \u2013 Pueblos Ind\u00edgenas."
 }
